@@ -7,6 +7,7 @@ Object detection is a computer technology related to computer vision and image p
 Object detection is important for a variety of reasons. For example, detecting the bikers who are wearing helmets or not wearing.
 Some potential benefits of helmet detection include:
 
+
 1.Improved safety: By detecting whether or not a person is wearing a helmet, safety systems can alert the user or take corrective action if necessary. This could be particularly useful in industries with a high risk of head injuries, such as construction or cycling.
 
 2.Enhanced compliance: In industries or situations where helmet use is required by law or regulation, helmet detection can be used to ensure compliance.
